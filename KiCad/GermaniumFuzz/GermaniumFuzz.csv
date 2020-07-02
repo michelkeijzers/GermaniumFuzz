@@ -1,0 +1,14 @@
+"Id";"Designator";"Package";"Quantity";"Designation";"Supplier and ref";
+1;"R3";"R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal";1;"1K";;;
+2;"J1";"JST_XH_B2B-XH-A_1x02_P2.50mm_Vertical";1;"Conn_01x02";;;
+3;"J2";"JST_XH_B4B-XH-A_1x04_P2.50mm_Vertical";1;"Conn_01x04";;;
+4;"H4,H3,H2,H1";"MountingHole_3mm_Pad_Via";4;"MountingHole_Pad";;;
+5;"C2";"C_Radial_D5.0mm_H11.0mm_P2.00mm";1;"20uF";;;
+6;"R1";"R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal";1;"470R";;;
+7;"RV2,RV1";"Potentiometer_Vishay_T73XW_Horizontal";2;"100K";;;
+8;"C21,C20";"C_Disc_D3.0mm_W1.6mm_P2.50mm";2;"100pF";;;
+9;"R2";"R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal";1;"100K";;;
+10;"Q2,Q1";"TO-92_Inline";2;"AC128";;;
+11;"J3";"JST_XH_B3B-XH-A_1x03_P2.50mm_Vertical";1;"B1K";;;
+12;"C3";"C_Disc_D3.0mm_W1.6mm_P2.50mm";1;"10nF";;;
+13;"C1";"C_Disc_D3.0mm_W1.6mm_P2.50mm";1;"2.2uF";;;
